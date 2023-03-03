@@ -1,0 +1,6 @@
+[Module]
+Name=AdvancedPVPSkill
+Version=2
+Files=LoaderConfig.lua,ProfileLoader.lua
+Dependencies=minionlib,MadaoCore,MadaoCombat,mcr_pvp
+Enabled=1
